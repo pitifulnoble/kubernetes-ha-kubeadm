@@ -169,8 +169,8 @@ EOF
 # 找到要安装的版本号
 $ yum list kubeadm --showduplicates | sort -r
 
-# 安装指定版本（这里用的是1.18.2）
-$ yum install -y kubeadm-1.18.2-0 kubelet-1.18.2-0 kubectl-1.18.2-0 --disableexcludes=kubernetes
+# 安装指定版本（这里用的是1.18.4）
+$ yum install -y kubeadm-1.18.4-0 kubelet-1.18.4-0 kubectl-1.18.4-0 --disableexcludes=kubernetes
 
 # 设置kubelet的cgroupdriver（kubelet的cgroupdriver默认为systemd，如果上面没有设置docker的exec-opts为systemd，这里就需要将kubelet的设置为cgroupfs）
 $ sed -i "s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g" /etc/systemd/system/kubelet.service.d/10-kubeadm.conf

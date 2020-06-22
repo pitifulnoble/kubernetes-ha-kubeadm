@@ -10,7 +10,7 @@
 ## 软件版本
 
 - 操作系统 centos7.8
-- kubernetes 1.18.2
+- kubernetes 1.18.4
 - docker 19.03.8
 
 ## 安装教程

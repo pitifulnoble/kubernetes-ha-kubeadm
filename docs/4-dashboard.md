@@ -1,7 +1,7 @@
 # 四. 部署dashboard
 ## 1. 部署dashboard 2.x版本
 
-Dashboard 分为 1.x版本 和 2.x版本， k8s 使用的是1.18.2 故部署2.x版本的
+Dashboard 分为 1.x版本 和 2.x版本， k8s 使用的是1.18.4 故部署2.x版本的
 
 ```bash
 # dashboard 2.x版本的部署
