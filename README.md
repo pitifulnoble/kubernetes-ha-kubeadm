@@ -23,9 +23,9 @@
 
 #### [四、部署dashboard][4]
 
-[1]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/docs/1-prepare.md
-[2]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/docs/2-ha-deploy.md
-[3]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/docs/3-test.md
-[4]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/docs/4-dashboard.md
-[5]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/auth.md
-[6]:https://gitee.com/salmon_163/kubernetes-ha-kubeadm/blob/master/cni.md
+[1]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/docs/1-prepare.md
+[2]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/docs/2-ha-deploy.md
+[3]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/docs/3-test.md
+[4]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/docs/4-dashboard.md
+[5]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/auth.md
+[6]:https://github.com/pitifulnoble/kubernetes-ha-kubeadm/blob/master/cni.md
